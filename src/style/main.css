@@ -13,3 +13,12 @@ and open the template in the editor.
     border: 1px solid black;
 }
 
+.te-panel-buttons button{
+    display: block;
+    width:30px;
+}
+
+.te-panel-buttons .te-btn-bold{
+    font-weight: bold;
+    font-size: 14px;
+}
